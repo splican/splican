@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @splican
-- 👀 I’m interested in webdesign and web development, creating visually appealing content, photography, gaming, camping, popculture and mountain biking.
-- 🌱 I’m currently learning how to use git, react, javascript
+- 👀 I’m interested in user-experiences, visually appealing content, photography, (retro-)gaming, camping, popculture and mountain biking.
 - 📫 daniel@glaabo.de // my photography website: **glaabo.de**
 
 <!---
